@@ -3,5 +3,5 @@
 int main()
 {
 	compute calc;
-	calc.Fibo(45);
+	calc.Fibo(20);
 }
